@@ -1,0 +1,49 @@
+body {
+    font-family: "Raleway", sans-serif;
+    background-color: #EDF6E1;
+}
+
+h1, h2, h3 {
+    font-family: "Cabin", sans-serif;
+   
+}
+
+h2 {
+    color: #05386B;
+}
+
+header h2 {
+    color: #EDF6E1;
+}
+
+.site-footer {
+    background-image: linear-gradient(#8EE4AF, white);
+    padding: 20px 0;
+    color: #05386B;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #8EE4AF, #5CDB95, #379683);
+    color: #EDF6E1;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.navbar {
+    background-color: #05386B; 
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+.carousel {
+    border: inset 10px #05386B;
+    
+}
